@@ -9108,3 +9108,17 @@ select.mma-mod_survey-select {
 .button.active, .button.activated {
   box-shadow: none;
   color: #fff; }
+
+.bar-side-menu {
+  background-color: #43b9c7; }
+
+.bar-content {
+  background-color: #43b9c7; }
+
+.button.button-positive {
+  border-color: #43b9c7;
+  background-color: #43b9c7;
+  color: #fff; }
+
+.item-divider {
+  background-color: #fafafa; }
